@@ -1,0 +1,5 @@
+2. Napisz metodę która dostaje jako parametr dowolnego stringa zawierającego okrągłe nawiasy np. “tekst(tekst(tekst))”. Metoda ma zwracać true albo false w zależności od tego czy wszystkie otwarte nawiasy w tym stringu są zamknięte i czy nie ma żadnego nawiasu zamykającego jeśli nie był otwarty. Innymi słowy metoda ma sprawdzać czy nawiasy są poprawne.
+Przykład:
+2+4*(7+8) - true - nawiasy są poprawnie
+cos(cos(cos) - false - jeden nawias jest niezamknięty
+Idealne rozwiązanie to takie w którym czas działania programu ma złożoność liniową - możecie zastanowić się jak można zrobić to najprościej jak się tylko da.

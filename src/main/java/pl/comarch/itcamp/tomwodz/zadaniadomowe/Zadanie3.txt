@@ -1,0 +1,1 @@
+3. W internecie poszukaj co to jest metoda MonteCarlo. Wylosuj 10 mln liczb i wylicz ich średnią - bez żadnych cudów - zwykłe liczenie średniej. Później zrób to samo tylko wykorzystując podejście MonteCarlo.

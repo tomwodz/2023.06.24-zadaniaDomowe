@@ -1,0 +1,1 @@
+4. BARDZO TRUDNE DLA CHĘTNYCH - Masz funkcję która potrafi losować liczby od 0 do 1 (zmiennoprzecinkowe, użyj Random w Java). Oblicz wartość liczby PI.
